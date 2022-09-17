@@ -10,40 +10,40 @@ function civilisation(){
     if(result == 1){
         result = "Empire romain"
     }
-    if(result == 2){
+    else if(result == 2){
         result = "Empire egyptien"
     }
-    if(result == 3){
+    else if(result == 3){
         result = "Empire francais"
     }
-    if(result == 4){
+    else if(result == 4){
         result = "Empire anglais"
     }
-    if(result == 5){
+    else if(result == 5){
         result = "Empire allemand"
     }
-    if(result == 6){
+    else if(result == 6){
         result = "Empire espagnol"
     }
-    if(result == 7){
+    else if(result == 7){
         result = "Empire chinois"
     }
-    if(result == 8){
+    else if(result == 8){
         result = "Empire coreen"
     }
-    if(result == 9){
+    else if(result == 9){
         result = "Empire japonais"
     }
-    if(result == 10){
+    else if(result == 10){
         result = "Empire arabe"
     }
-    if(result == 11){
+    else if(result == 11){
         result = "Empire ottoman"
     }
-    if(result == 12){
+    else if(result == 12){
         result = "Empire byzantin"
     }
-    if(result == 13){
+    else if(result == 13){
         result = "Empire viking"
     }
     document.getElementById("civilisationrep").style.margin = "1%"
